@@ -1,0 +1,35 @@
+[
+
+  {
+    "name": "Nemo",
+    "age": "290 year",
+    "breed": "clown fish",
+    "weight": "1",
+    "bio": "Just keep swimming",
+    "filename": "fish.png"
+  },
+
+  {
+  "name":"Rigby", "age":"hidden",
+  "breed":"racoon",
+  "weight":"20",
+  "bio": "woah", "filename": "rigby.png"
+  },
+
+  {
+    "name": "Hound",
+    "breed": "Bloodhound",
+    "weight": "2",
+    "bio": "Your my best friend",
+    "filename": "hound.png"
+  },
+
+  {
+    "name": "Pancake",
+    "age": "",
+    "breed": "Flat Dog",
+    "weight": "9",
+    "bio": "Treats and Snoozing!",
+    "filename": "pancake.png"
+  }
+]
